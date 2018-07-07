@@ -311,7 +311,7 @@ Transaction.InputDataLength = function(orderNum) {
     length: len,
     inputNum: inputNum
   }
-】;
+};
 
 /**
  * 构造输出数据
